@@ -4,18 +4,40 @@
   "author": "oreytv",
   "file": "skin_stumbleguy",
   "boneOffsets": [
+    { "bone": "Shoulder_L_jnt", "localPosition": {
+        "x": -0.00448000012,
+        "y": 0.000509999983,
+        "z": -0.000569999975
+    }},
+
     { "bone": "Elbow_L_jnt", "localPosition": { 
         "x": -1.99999995e-05, 
         "y": 0.00212999992, 
         "z": -9.99999975e-06 
     }},
 
-    { "bone": "Wrist_L_jnt", "localPosition": { "x": 1.49011609e-10, "y": 0.00144833571, "z": 4.37721609e-10 } },
+    { "bone": "Wrist_L_jnt", "localPosition": {
+        "x": -7.00000019e-05,
+        "y": 0.00141000003,
+        "z": 7.00000019e-05
+    }},
+
+    { "bone": "Shoulder_R_jnt1", "localPosition": {
+        "x": 0.00443999982,
+        "y": 0.000289999996,
+        "z": -0.000260000001
+    }},
 
     { "bone": "Elbow_R_jnt1", "localPosition": { 
         "x": 0.000169999999, 
         "y": -0.00164999999, 
         "z": 9.99999975e-06 
+    }},
+
+    { "bone": "Wrist_R_jnt1", "localPosition": {
+        "x": 0.000140000004,
+        "y": -0.000250000012,
+        "z": -0.000140000004
     }}
   ]
 }
