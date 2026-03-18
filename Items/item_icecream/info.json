@@ -3,13 +3,13 @@
   "author": "oreyre",
   "type": "item",
   "file": "item_icecream",
-  "scale": 1.0,
+  "scale": 8.5,
   "left": {
-    "position": [0.0003, 0.0024, -0.0005],
+    "position": [0.045, 0.201, -0.054],
     "rotation": [12, -110, 58]
   }
   "right": {
-    "position": [-0.0003, -0.002, 0.0005],
+    "position": [-0.046, -0.204, 0.054],
     "rotation": [37, 70, 60]
   }
 }
