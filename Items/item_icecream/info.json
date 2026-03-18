@@ -1,8 +1,9 @@
 {
   "name": "Ice cream",
-  "author": "oreyre",
+  "author": "oreytv",
   "type": "item",
   "file": "item_icecream",
+  "description": "I scream you scream",
   "scale": 8.5,
   "left": {
     "position": [0.045, 0.201, -0.054],
