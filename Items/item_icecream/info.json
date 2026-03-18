@@ -1,0 +1,15 @@
+{
+  "name": "Ice cream",
+  "author": "oreyre",
+  "type": "item",
+  "file": "item_icecream",
+  "scale": 1.0,
+  "left": {
+    "position": [0.0003, 0.0024, -0.0005],
+    "rotation": [12, -110, 58]
+  }
+  "right": {
+    "position": [-0.0003, -0.002, 0.0005],
+    "rotation": [37, 70, 60]
+  }
+}
