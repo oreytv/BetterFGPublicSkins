@@ -1,0 +1,19 @@
+{
+  "name": "Futaba Sakura",
+  "type": "costume",
+  "author": "oreytv",
+  "file": "costume_p5tfutaba",
+  "description": "Persona 5 Tactica ver.",
+  "boneOffsets": [
+    { "bone": "Shoulder_L_jnt", "localPosition": { "x": -0.0008901053, "y": 0.0003240478, "z": -0.0003255131 } },
+    { "bone": "Elbow_L_jnt", "localPosition": { "x": 1.396984e-11, "y": 0.002134871, "z": 2.497109e-10 } },
+    { "bone": "Wrist_L_jnt", "localPosition": { "x": -4.656613e-11, "y": 0.001687196, "z": -5.675247e-11 } },
+    { "bone": "Shoulder_R_jnt1", "localPosition": { "x": 0.0008261242, "y": 0.0002146381, "z": -0.0001353844 } },
+    { "bone": "Elbow_R_jnt1", "localPosition": { "x": -9.807991e-10, "y": -0.002317198, "z": -3.944024e-09 } },
+    { "bone": "Wrist_R_jnt1", "localPosition": { "x": -1.136214e-09, "y": -0.001831288, "z": 3.906723e-08 } },
+    { "bone": "Hip_L_jnt", "localPosition": { "x": -0.001571116, "y": 0.003114063, "z": 0.0001475942 } },
+    { "bone": "Knee_L_jnt", "localPosition": { "x": 1.868568e-12, "y": 0.0007908653, "z": 3.158449e-10 } },
+    { "bone": "Hip_R_jnt", "localPosition": { "x": 0.00157112, "y": 0.003114067, "z": 0.0001475939 } },
+    { "bone": "Knee_R_jnt", "localPosition": { "x": 4.417334e-11, "y": -0.0009053737, "z": 6.67009e-05 } }
+  ]
+}
