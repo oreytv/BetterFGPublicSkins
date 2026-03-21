@@ -4,6 +4,7 @@
   "author": "oreytv",
   "file": "costume_p5tfutaba",
   "description": "Persona 5 Tactica ver.",
+  "skinScale": 1.37,
   "boneOffsets": [
     { "bone": "Shoulder_L_jnt", "localPosition": { "x": -0.0008901053, "y": 0.0003240478, "z": -0.0003255131 } },
     { "bone": "Elbow_L_jnt", "localPosition": { "x": 1.396984e-11, "y": 0.002134871, "z": 2.497109e-10 } },
