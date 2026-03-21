@@ -5,7 +5,7 @@
   "file": "costume_p5nmorgana",
   "type": "costume",
   "keepBase": false,
-  "skinScale": 0.45,
+  "skinScale": 0.8,
   "boneOffsets": [
     { "bone": "Shoulder_L_jnt", "x": -0.00149363, "y": 0.00155969, "z": 0.000289349 },
     { "bone": "Elbow_L_jnt", "x": -1.39698E-11, "y": 0.00302573, "z": -8.72284E-10 },
