@@ -1,0 +1,12 @@
+﻿{
+  "name": "Pikachu",
+  "author": "oreytv",
+  "description": "Pika! pika PIKA!!!! achoo",
+  "file": "costume_pika",
+  "type": "costume",
+  "keepBase": false,
+  "boneOffsets": [
+    { "bone": "Shoulder_L_jnt", "x": -0.00332098, "y": 0.00132519, "z": 0.00308459 },
+    { "bone": "Shoulder_R_jnt1", "x": 0.00327656, "y": 0.00122162, "z": 0.00343543 }
+  ]
+}
