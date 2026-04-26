@@ -7,8 +7,8 @@
   "keepBase": false,
   "boneOffsets": [
     { "bone": "Shoulder_L_jnt", "x": -0.00415, "y": 0.00129, "z": 0.0018 },
-    { "bone": "Shoulder_R_jnt1", "x": 0.00434, "y": 0.00132, "z": 0.00182 },
     { "bone": "Elbow_L_jnt", "x": 6.43195E-10, "y": 0.00345722, "z": 1.05577E-09 },
+    { "bone": "Shoulder_R_jnt1", "x": 0.00434, "y": 0.00132, "z": 0.00182 },
     { "bone": "Elbow_R_jnt1", "x": -9.93023E-10, "y": -0.00345721, "z": -1.39105E-09 }
   ]
 }
