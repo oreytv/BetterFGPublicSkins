@@ -5,6 +5,7 @@
   "file": "costume_frogsqwad",
   "type": "costume",
   "keepBase": false,
+  "group": "Videogame characters",
   "boneOffsets": [
     { "bone": "Chest_C_jnt", "x": -8.97163E-12, "y": 0.00287346, "z": -1.61489E-10 },
     { "bone": "Head_C_jnt01", "x": 1.44394E-10, "y": 0.00576777, "z": -0.00697771 },
