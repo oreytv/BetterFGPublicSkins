@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Stumble Guy",
   "author": "oreyre",
   "description": "",
@@ -23,4 +23,6 @@
     { "bone": "Elbow_R_jnt1", "x": -1.79221E-09, "y": -0.00302013, "z": 1.26193E-09 },
     { "bone": "Wrist_R_jnt1", "x": -3.1665E-10, "y": -0.00238682, "z": 4.8761E-08 }
   ]
+,
+  "group": "Videogame characters"
 }

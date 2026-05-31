@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Pikachu",
   "author": "oreytv",
   "description": "Pika! pika PIKA!!!! achoo",
@@ -11,4 +11,6 @@
     { "bone": "Elbow_L_jnt", "x": 6.43195E-10, "y": 0.00345722, "z": 1.05577E-09 },
     { "bone": "Elbow_R_jnt1", "x": -9.93023E-10, "y": -0.00345721, "z": -1.39105E-09 }
   ]
+,
+  "group": "Show characters"
 }

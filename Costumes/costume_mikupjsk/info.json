@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Miku",
   "author": "oreyre",
   "description": "Miku PJSK ver",
@@ -52,4 +52,6 @@
     { "bone": "Torso_C_jnt", "x": 0, "y": 5.96046E-10, "z": -7.19219E-11 },
     { "bone": "Torso_C_jnt_end", "x": 0, "y": 0.00216304, "z": 0 }
   ]
+,
+  "group": "Videogame characters"
 }

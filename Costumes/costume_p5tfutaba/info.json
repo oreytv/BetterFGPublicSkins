@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Futaba Sakura",
   "author": "oreytv",
   "description": "Futaba (Persona 5 tactica ver.)",
@@ -19,4 +19,6 @@
     { "bone": "Hip_R_jnt", "x": 0.00157112, "y": 0.00311407, "z": 0.000147594 },
     { "bone": "Knee_R_jnt", "x": 4.41733E-11, "y": -0.000905374, "z": 6.67012E-05 }
   ]
+,
+  "group": "Videogame characters"
 }

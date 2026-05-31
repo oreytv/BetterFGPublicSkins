@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "Cinnamoroll",
   "author": "oreyre",
   "description": "Suggested by jaycxrs",
@@ -48,4 +48,6 @@
     { "bone": "Toe_R_jnt", "x": -6.42527E-11, "y": -0.00182975, "z": 6.68713E-11 },
     { "bone": "Toe_R_jnt_end", "x": 0, "y": 0.00182975, "z": 0 }
   ]
+,
+  "group": "Show characters"
 }
