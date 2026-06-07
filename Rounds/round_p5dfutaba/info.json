@@ -1,0 +1,16 @@
+﻿{
+  "displayName": "p5dfutaba",
+  "file": "round_p5dfutaba",
+  "prefab": "round_p5dfutaba",
+  "skybox": "New Material 1",
+  "ambientMode": "3",
+  "ambientLight": "0.5377358 0.5377358 0.5377358 1",
+  "reflectionIntensity": "0",
+  "fog": "true",
+  "fogDensity": "0.002",
+  "fogColor": "0.9716981 0.689391 0.4995995 1",
+  "keepExistingObjects": "true",
+  "musicBank": "",
+  "musicEvent": "",
+  "musicStringsBank": ""
+}
