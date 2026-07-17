@@ -5,6 +5,7 @@
   "skybox": "New Material 1",
   "ambientMode": "3",
   "ambientLight": "0.5849056 0.5849056 0.5849056 1",
+  "keepExistingObjects": "true",
   "fog": "false",
   "fogDensity": "0.01",
   "fogColor": "0.5 0.5 0.5 1",
